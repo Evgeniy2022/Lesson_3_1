@@ -1,0 +1,24 @@
+
+@import "null.css";
+
+
+
+body{
+	color:darkgrey;
+}
+
+
+span{
+	color: #000;
+}
+
+
+
+a{
+	color: blue;
+}
+
+
+div h2{
+	color: brown;
+}
